@@ -93,6 +93,14 @@ article {
   
 }
 
+.myImage {
+  width: 100%;
+  height: auto;
+  border: 2px solid #012538;
+  box-shadow: 5px 5px 10px #012538;
+  border: 3px solid #D35100;
+}
+
 .fila {
   width: 100%;
   display: flex;
