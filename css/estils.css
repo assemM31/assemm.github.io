@@ -15,33 +15,32 @@ body {
 
 /* Style the header */
 header {
-  background-color: #000000;
-  background-image: url(background.jpg);
+  background-color: #0b3d1c;
   background-size: cover;
   padding: 30px;
   text-align: center;
   font-size: 35px;
-  color: whitesmoke;
+  color: #e8f5e9;
   height: 40vh;
 }
 header h2 {
   margin-top: 10vh;
   font-size: 10vh;
-  text-shadow: 3px 3px #0B6191;
+  text-shadow: 3px 3px #2e7d32;
 }
 header h4 {
   margin-top: 1vh;
   font-size: 5vh;
-  text-shadow: 2px 2px #0B6191;
+  text-shadow: 2px 2px #2e7d32;
   float: right;
 }
 header h4 a {
-  color: #000000;
+  color: #dcedc8;
 }
 
 /* Navigation */
 nav {
-  background: #000000;
+  background: #114628;
   padding: 20px;
 }
 nav ul {
@@ -49,35 +48,35 @@ nav ul {
   margin: 0;
   padding: 0;
   width: 100%;
-  background-color: #151515;
-  border: 1px solid #D35100;
+  background-color: #163c2f;
+  border: 1px solid #81c784;
   display: flex;
   justify-content: center;
 }
 nav ul li {
   text-align: center;
-  border: 1px solid #012538;
-  width: 20%;
+  border: 1px solid #1b5e20;
+  width: 16.6%;
 }
 nav ul li a {
   display: block;
-  color: #AAE5FA;
+  color: #c8e6c9;
   padding: 8px 16px;
   text-decoration: none;
 }
 nav ul li a.active {
-  background-color: #F07900;
+  background-color: #4caf50;
   color: white;
 }
 nav ul li a:hover:not(.active) {
-  background-color: #012538;
+  background-color: #2e7d32;
   color: white;
 }
 
 /* Article section */
 article {
   padding: 20px;
-  background-color: #151515;
+  background-color: #102a1b;
   display: table;
   width: 100%;
 }
@@ -89,8 +88,7 @@ article img {
 }
 
 article {
-  color: #F07900;
-  
+  color: #c8e6c9;
 }
 
 .myImage {
@@ -114,10 +112,10 @@ article {
 
 /* Footer */
 footer {
-  background-color: #012538;
+  background-color: #163c2f;
   padding: 10px;
   text-align: center;
-  color: whitesmoke;
+  color: #e8f5e9;
   height: 7vw;
 }
 
